@@ -39,4 +39,4 @@ MIT
 
 ## Author Information
 
-Author: Surya
+Author: Zeeshan Kanuga
